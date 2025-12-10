@@ -44,6 +44,19 @@ class Category(BaseOrder):
             quantity_count += product.quantity
         return f"{self.name}, количество продуктов: {quantity_count} шт."
 
+    def middle_price(self):
+        """подсчитывает средний ценник всех товаров"""
+        try:
+            return sum([product.price for product in self.__products]) / len(
+                self.__products
+            )
+        except ZeroDivisionError as e:
+            print(
+                str(e),
+                "Нельзя делить на ноль, количество товаров в категории равно нулю",
+            )
+            return 0
+
 
 class Order(BaseOrder):
     def __init__(self, product: Product, quantity: int):
@@ -75,3 +88,6 @@ if __name__ == "__main__":
         [product1, product2, product3],
     )
     print("q=", str(category1))
+
+    # 17_1
+    category1.middle_price()

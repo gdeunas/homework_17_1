@@ -4,8 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e649811-7ea1-4a33-b6c9-742304224217" name="Changes" comment="initial commit">
+    <list default="true" id="7e649811-7ea1-4a33-b6c9-742304224217" name="Changes" comment="update main">
+      <change afterPath="$PROJECT_DIR$/htmlcov/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/class_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html_cb_513c77fd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/favicon_32_cb_58284776.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/function_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed_cb_ce680311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/style_cb_42a278b0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_base_product_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_category_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_ext_product_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_main_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_print_mixin_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_product_iterator_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_product_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/z_145eef247bfb46b6_utils_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/category.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +72,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_category.py.executor": "Run",
+    "Python tests.Python tests in test_product.py.executor": "Run",
+    "Python.category.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.product.executor": "Run",
+    "Python.test_category.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "feature/homework__17__1",
     "ignore.virus.scanning.warn.message": "true"
@@ -79,11 +109,20 @@
       <option name="project" value="LOCAL" />
       <updated>1765400552814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update main">
+      <option name="closed" value="true" />
+      <created>1765400781641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765400781641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="update main" />
+    <option name="LAST_COMMIT_MESSAGE" value="update main" />
   </component>
 </project>
